@@ -5,8 +5,11 @@
   
 ## Input Data 
   An input csv is manual_error.csv which contains timeseries data having severity of faults, category of fault and machines to which they belong.
+  
   Yes - Less severe
+  
   conditionally - Moderate severe
+  
   No - High severity
   
 ## Requirements  
