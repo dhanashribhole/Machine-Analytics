@@ -4,7 +4,10 @@
   This repository contains data analysis for faults in machines. Notebook presents useful insights about faults or categories of faults for machines. It also contains predictive maintenance of machines by forecasting number of faults.
   
 ## Input Data 
-  An input csv is manual_error.csv which contains timeseries data having severity of faults, category and machines to which they belong.
+  An input csv is manual_error.csv which contains timeseries data having severity of faults, category of fault and machines to which they belong.
+  Yes - Less severe
+  conditionally - Moderate severe
+  No - High severity
   
 ## Requirements  
   1. pandas 
